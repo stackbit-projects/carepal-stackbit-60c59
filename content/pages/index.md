@@ -1,5 +1,5 @@
 ---
-title: Digitale Lösungen
+title: Digitale Lösungen für die Hausverw
 sections:
   - section_id: hero
     type: section_hero
