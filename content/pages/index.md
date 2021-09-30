@@ -1,5 +1,5 @@
 ---
-title: Digitale Lösungen für Hausverw
+title: Digitale Lösungen für Hausverwaltungen
 sections:
   - section_id: hero
     type: section_hero
